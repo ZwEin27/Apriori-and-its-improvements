@@ -1,8 +1,3 @@
-"""
-Author: Lingzhe Teng
-USC ID: 8550242127
-Date:   Sep. 23, 2015
-"""
 
 """
 Problem 2: Multi-Hash Algorithm
@@ -12,8 +7,8 @@ Hashing Function 2: i + j + ... + z mod bucket_size
 
 
 Executing code: 
-1) $ python lingzhe_teng_multihash.py input.txt 4 5
-2) $ python lingzhe_teng_multihash.py input1.txt 20 5
+1) $ python multihash.py input.txt 4 5
+2) $ python multihash.py input1.txt 20 5
 
 """
 import sys

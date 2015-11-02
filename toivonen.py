@@ -1,16 +1,11 @@
-"""
-Author: Lingzhe Teng
-USC ID: 8550242127
-Date:   Sep. 23, 2015
-"""
 
 """
 Problem 1: Toivonen Algorithm
 
 
 Executing code: 
-1) $ python lingzhe_teng_toivonen.py input.txt 4
-2) $ python lingzhe_teng_toivonen.py input1.txt 20
+1) $ python toivonen.py input.txt 4
+2) $ python toivonen.py input1.txt 20
 
 
 """

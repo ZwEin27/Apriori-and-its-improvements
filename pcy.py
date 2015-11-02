@@ -1,8 +1,3 @@
-"""
-Author: Lingzhe Teng
-USC ID: 8550242127
-Date:   Sep. 22, 2015
-"""
 
 """
 Problem 1: PCY Algorithm
@@ -10,8 +5,8 @@ Problem 1: PCY Algorithm
 Hashing Function: i * j * ... * z mod bucket_size
 
 Executing code: 
-1) $ python lingzhe_teng_pcy.py input.txt 4 20
-2) $ python lingzhe_teng_pcy.py input1.txt 20 20
+1) $ python pcy.py input.txt 4 20
+2) $ python pcy.py input1.txt 20 20
 
 
 """
